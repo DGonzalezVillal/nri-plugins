@@ -21,4 +21,6 @@ Currently following plugins are available:
 See the [NRI plugins documentation](https://containers.github.io/nri-plugins/) for more information.
 
 
-Please use this instead of Martin's patch!!!!
+Please use this instead of Martin's patch!
+
+Showing ALan how to contribute!
